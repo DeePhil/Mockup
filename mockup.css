@@ -1,0 +1,166 @@
+body {
+  border-top: .15em solid SlateGray;
+  background: LightGrey;
+  font-family: 'Open Sans', sans-serif;
+  color: #333333;
+}
+
+.top-banner {
+  margin-left:15.8em;
+  border-bottom: SlateGrey .1em solid;
+  border-top: LightGrey .1em solid;
+  background: WhiteSmoke;
+  padding-left: .1em;
+}
+
+.top-banner2 {
+  margin-left: 16em;
+  height: 9.5em;
+}
+
+.top-banner3 {
+  height: 9.5em;
+  margin-right: 10em
+}
+
+.pic {
+  border:solid;
+  float: right;
+}
+
+.info1 {
+  margin-top: 1em;
+}
+
+.button1 {
+  background:orange;
+  width: 11em;
+}
+
+.button2 {
+  background:orange;
+  width: 11em;
+}
+
+.button3 {
+  background: white;
+  width: 4.5em;
+  margin-top: 1em;
+}
+
+.button4 {
+  background: white;
+  width: 4.5em;
+  margin-left:0;
+}
+
+.plane {
+ float:left;
+}
+
+.black {
+  padding-left: .5em;
+  margin-left:8em;
+  margin-right:52em;
+  background:WhiteSmoke;
+  border-right: SlateGrey   solid .1em;
+  border-left: SlateGrey   solid .1em;
+}
+
+.square1 {
+  border: solid .1em SlateGrey;
+  width: 11.5em;
+  float:left;
+  background: WhiteSmoke;
+}
+
+.square2 {
+  border-top: solid .1em SlateGrey;
+  border-bottom: solid .1em SlateGrey;
+  margin-left: 11.5em;
+  background: WhiteSmoke;
+}
+
+.square3 {
+  border-right: .1em solid SlateGray;
+  width: 9em;
+  height:9em;
+  float: left;
+  padding-left:.5em;
+}
+
+.square4 {
+  margin-left: 9.9em;
+  height:9em;
+}
+
+.flights1 {
+  float: left;
+  height: 10em;
+  width: 9em;
+  padding-left: .5em;
+  background: WhiteSmoke;
+}
+
+.flights2 {
+  float: left;
+  height: 10em;
+  width: 9em;
+  padding-left: .5em;
+  background: WhiteSmoke;
+}
+
+.flights3 {
+  float: left;
+  height: 10em;
+  width: 9em;
+  padding-left: .5em;
+  background: WhiteSmoke;
+}
+
+.flighta {
+  border-left: solid .1em LightGray;
+  border-bottom: solid .15em LightGrey;
+  float: left;
+  height: 10em;
+  width: 42.5em;
+  padding-left: .5em;
+  background: WhiteSmoke;
+}
+
+.flightb {
+  border-left: solid .1em LightGray;
+  border-bottom: solid .15em LightGrey;
+  float: left;
+  height: 10em;
+  width: 42.5em;
+  padding-left: .5em;
+  background: WhiteSmoke;
+}
+
+.flightc {
+  border-left: solid .1em LightGray;
+  float: left;
+  height: 10em;
+  width: 42.5em;
+  padding-left: .5em;
+  background: WhiteSmoke;
+}
+
+.economy {
+  float:right;
+  padding-right: 1em;
+}
+
+#column {
+  padding-top:1em;
+  padding-left:.5em;
+  font-size:1em;
+  float:left;
+  width:15.3em;
+  border-right :solid .1em SlateGray;
+}
+
+.columnb {
+  margin-right:.5em;
+}
